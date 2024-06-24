@@ -1,5 +1,5 @@
-# Identifying_Plant_Seedlings_Images
-April 30 2023 | Hugo Hiraoka | hhiraokawatts@gmail.com
+# Classifiying Plant Seedlings Images
+April 30 2023 | Hugo Hiraoka | hhiraoka.w@gmail.com
 
 In recent times, the field of agriculture has been in urgent need of modernizing, since the amount of manual work people need to put in to check if plants are growing correctly is still highly extensive. Despite several advances in agricultural technology, people working in the agricultural industry still need to have the ability to sort and recognize different plants and weeds, which takes a lot of time and effort in the long term.
 
